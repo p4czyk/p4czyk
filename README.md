@@ -1,4 +1,6 @@
-# Hi, my name is p4czyk / Patrick! 👋
+## Hi, my name is p4czyk / Patrick! 👋
+
+I ❤️ to code with Java. ☕
 
 <!--
 **p4czyk/p4czyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
