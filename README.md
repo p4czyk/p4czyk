@@ -1,9 +1,8 @@
 ## Hi, my name is p4czyk / Patrick! 👋
 
-I...
  - ❤️ to code with Java. ☕
- - am interested in APIs. 🌍
- - am looking forward to study Computer Science. 🎓
+ - interested in APIs. 🌍
+ - looking forward to study Computer Science. 🎓
  - tried...
     - Android SDK by Google 📱
     - Angular Framework by Google 🍎
