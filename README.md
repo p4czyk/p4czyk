@@ -10,5 +10,3 @@ I...
     - React Library by Facebook ⚛️
     - Unity Engine by Unity 🎮
     - Discord API by Discord4J 🎤
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p4czyk&show_icons=true&theme=dracula)
