@@ -1,11 +1,5 @@
-## Hi, my name is p4czyk / Patrick! 👋
+## Hi, my name is Patrick! 👋
 
- - ❤️ to code with Java. ☕
- - interested in APIs. 🌍
- - looking forward to study Computer Science. 🎓
- - tried...
-    - Android SDK by Google 📱
-    - Angular Framework by Google 🍎
-    - React Library by Facebook ⚛️
-    - Unity Engine by Unity 🎮
-    - Discord API by Discord4J 🎤
+- Studying **Computer Science** 🎓.
+- Interested in **Mathematical Foundations** 🧮 of everything.
+- Like to drive by **Bike** 🚲.
